@@ -31,6 +31,15 @@ if answer == "7":
 else:
     print("Wrong!")
 
+
+
+
+
+
+
+
+"bc mjaaa aa gya"
+
 # Final Score
 print("=" * 40)
 print(f"Your final score is: {score}/3")
