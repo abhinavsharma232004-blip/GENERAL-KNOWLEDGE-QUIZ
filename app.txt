@@ -1,2 +1,6 @@
 a = int(input("enter the number"))
+<<<<<<< HEAD
 bvgvcycyv 
+=======
+abcdes
+>>>>>>> login-feature
