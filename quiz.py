@@ -44,3 +44,7 @@ else:
 print("=" * 40)
 print(f"Your final score is: {score}/3")
 print("=" * 40)
+
+
+
+print("hello  hhh") 
